@@ -113,16 +113,6 @@ research-assistant-chainlit-rag/
 ├── .gitignore
 └── README.md
 ```
-## Application Screenshots
-
-### Main Interface
-
-![Research Assistant Interface](screenshots/assistant_app.jpg)
-
-### Example Interaction
-
-![Research Assistant Example](screenshots/assistant_app_example.jpg)
-
 ---
 
 ## Installation
@@ -166,7 +156,11 @@ chainlit run app/app.py
 
 ### Main Interface
 
+![Research Assistant Interface](screenshots/assistant_app.jpg)
+
 ### Example Interaction
+
+![Research Assistant Example](screenshots/assistant_app_example.jpg)
 
 ---
 
